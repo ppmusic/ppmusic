@@ -6,3 +6,5 @@ out/
 .idea/
 # 忽略项目配置文件
 *.iml
+# 忽略Web配置文件
+web/WEB-INF/
